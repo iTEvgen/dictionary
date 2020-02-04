@@ -20,6 +20,10 @@
 
 **А́лин, То́биас** — [tobiasahlin.com](http://tobiasahlin.com/), [@tobiasahlin](https://twitter.com/tobiasahlin)
 
+### Alpert, Sophie
+
+**Алперт, Софи́** — [sophiebits.com](https://sophiebits.com), [@sophiebits](https://twitter.com/sophiebits)
+
 ### Andrew, Rachel
 
 **Э́ндрю, Рэйчел** — [rachelandrew.co.uk](https://rachelandrew.co.uk/), [@rachelandrew](https://twitter.com/rachelandrew)
@@ -48,9 +52,9 @@
 
 **Се́дерхольм, Дэн** — [simplebits.com](http://simplebits.com/), [@simplebits](https://twitter.com/simplebits)
 
-### Chen, Hui Jing
+### Clark, Andrew
 
-**Чэнь, Хуэй Цзин** — [chenhuijing.com](https://www.chenhuijing.com/), [@hj_chen](https://twitter.com/hj_chen)
+**Кларк, Э́ндрю** — [@acdlite](https://twitter.com/acdlite)
 
 ### Coyier, Chris
 
@@ -122,9 +126,17 @@
 
 ## H
 
+### Hui Jing, Chen
+
+**Хуэй Цзин, Чэнь** — [chenhuijing.com](https://www.chenhuijing.com/), [@hj_chen](https://twitter.com/hj_chen)
+
 ### Heilmann, Christian
 
 **Ха́йльман, Кри́стиан** — [christianheilmann.com](https://christianheilmann.com), [@codepo8](https://twitter.com/codepo8)
+
+### Herman, David
+
+**Херман, Дэвид** — [calculist.org](http://calculist.org/), [@littlecalculist](https://twitter.com/littlecalculist)
 
 ### Hidayat, Ariya
 
@@ -270,6 +282,10 @@
 
 **Портис, Эрик** — [ericportis.com](https://ericportis.com/), [@etportis](https://twitter.com/etportis)
 
+### Roberts, Philip
+
+**Ро́бертс, Фи́лип** — [latentflip.com](http://latentflip.com/), [@philip_roberts](https://twitter.com/philip_roberts)
+
 ## R
 
 ### Rascia, Tania
@@ -347,6 +363,10 @@
 **Сáттон, Марси** — [marcysutton.com](https://marcysutton.com/), [@marcysutton](https://twitter.com/marcysutton)
 
 ## V
+
+### Vaughn, Brian
+
+**Вон, Бра́йан** — [briandavidvaughn.com](http://www.briandavidvaughn.com), [@brian_d_vaughn](https://twitter.com/brian_d_vaughn)
 
 ### Vepsäläinen, Juho
 
